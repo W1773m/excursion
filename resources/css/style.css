@@ -10,10 +10,33 @@ h1 {
     font-weight: normal;
 }
 
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
 a {
+    display: block;
     font-size: 16px;
 }
 
 a:link, a:visited {
     color: aquamarine;
+}
+
+video {
+    margin-top: 20px;
+}
+
+#iphone {
+    margin-top: 20px;
+}
+
+footer p {
+    text-align: right;
 }
